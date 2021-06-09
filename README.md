@@ -2,10 +2,9 @@
 Multiplayer Ludo built on ionic/angular with full functionality
 
 <p float="left">
-  <img src="https://github.com/imRecoder/SpotChat/blob/main/screeshots/localhost_8100_(iPhone%206_7_8%20Plus).png" width="150" style="margin-left:10px" />
-  <img src="https://github.com/imRecoder/SpotChat/blob/main/screeshots/WhatsApp%20Image%202021-04-14%20at%201.23.00%20PM%20(4).jpeg" width="150" style="margin-left:10px" />
-   <img src="https://github.com/imRecoder/SpotChat/blob/main/screeshots/WhatsApp%20Image%202021-04-14%20at%201.23.00%20PM.jpeg" width="150" style="margin-left:10px" />
-  <img src="https://github.com/imRecoder/SpotChat/blob/main/screeshots/localhost_8100_(iPhone%206_7_8%20Plus)%20(3).png" width="150" style="margin-left:10px" />
-    <img src="https://github.com/imRecoder/SpotChat/blob/main/screeshots/WhatsApp%20Image%202021-04-14%20at%201.23.00%20PM%20(5).jpeg" width="150" style="margin-left:10px" />
+  <img src="https://raw.githubusercontent.com/imReCoder/Ionic-Angular-Multiplayer-Ludo-Game/master/screenshots/Type%20Of%20game.png" width="150" style="margin-left:10px" />
+  <img src="https://raw.githubusercontent.com/imReCoder/Ionic-Angular-Multiplayer-Ludo-Game/master/screenshots/Number%20of%20Player%20Selector.png" width="150" style="margin-left:10px" />
+   <img src="https://raw.githubusercontent.com/imReCoder/Ionic-Angular-Multiplayer-Ludo-Game/master/screenshots/Player%20Name%20Page.png" width="150" style="margin-left:10px" />
+  <img src="https://raw.githubusercontent.com/imReCoder/Ionic-Angular-Multiplayer-Ludo-Game/master/screenshots/Ludo%20mate%20.png" width="150" style="margin-left:10px" />
 
 </p>
